@@ -55,7 +55,7 @@ def boundary():
 class Paddle:
     def __init__(self, position):
         self.w = 10
-        self.h = self.w*8
+        self.h = self.w*8                                                                                                   #zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion%2Fwiki%2Findex.php%2FMain_Page&v=hE7MFk5Eb7I
         self.paddleSpeed = 6
             
         if position == -1:
